@@ -101,5 +101,5 @@ premier-league-analysis/
 ---
 
 ## Author
-Md Islam 
+Md Islam
 GitHub: https://github.com/mdislam1
