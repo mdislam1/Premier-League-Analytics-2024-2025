@@ -1,7 +1,3 @@
-Here’s a professional `README.md` file for your **Premier League Performance Analysis: 2024-2025 Season** project, following the structure of the **Sleep Deprivation and Cognitive Performance Analysis** example:
-
----
-
 # Premier League Performance Analysis: 2024-2025 Season
 
 ## Overview
@@ -107,7 +103,3 @@ premier-league-analysis/
 ## Author
 Md Islam 
 GitHub: https://github.com/mdislam1
-
----
-
-This `README.md` provides a clear and professional overview of your project, making it easy for others to understand and use. Let me know if you need further adjustments!
